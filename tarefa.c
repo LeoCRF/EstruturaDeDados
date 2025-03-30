@@ -99,6 +99,7 @@ char letra;
 */
 
 // exercicio 5
+/*
     int opcao;
     char nome_conjuge[100], cidade[100], sexo;
     int idade, quantidade_filhos, idade_mais_velho;
@@ -157,6 +158,6 @@ char letra;
             printf("Opção inválida Digite.\n");
             return 1;
         }
-
+*/
     return 0;
 }
