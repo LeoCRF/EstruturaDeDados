@@ -173,7 +173,7 @@ int main() {
 }
 */
 
-
+/*
 //Exercicio 3
 #define MAX_CLIENTES 100
 typedef struct {
@@ -338,3 +338,4 @@ int main() {
     return 0;
 }
 
+*/
